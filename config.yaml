@@ -8,7 +8,7 @@
 Standards:
 - Title: Basic Prep Questionaire
   UID: fdd16693ba31cdaf868168ada282eb5f
-  Description: Basic Prep Questionaire
+  Description: Complete this onboarding form before getting started!
   SuccessCriteria:
   - success criteria
   ContentFiles:
