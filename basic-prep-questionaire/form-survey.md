@@ -78,7 +78,7 @@ Which phrase describes your commitment to join a Hack Reactor immersive?
 ##### !options
 
 * I want to join the next upcoming Hack Reactor immersive and signed up to prepare for the Technical Admissions Assessment.
-* I want to join Hack Reactor’s 12 in the next 3 to 6 months.
+* I want to join Hack Reactor’s 12 week immersive in the next 3 to 6 months.
 * I want to join the Hack Reactor’s SJP19 immersive.
 * I am curious about coding, and not committed to joining any immersive.
 * I am using this content to practice and join a different software engineering bootcamp.
